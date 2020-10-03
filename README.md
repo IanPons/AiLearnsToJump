@@ -4,7 +4,7 @@
 Neural Network and Genetic Algorithm implementation for a simple jumping game made using the SFML library.
 
 # Resources: 
-The hole project is written in c++. <br>
+The whole project is written in C++. <br>
 Genetic algorithm: The *nature of code* book by Daniel Shiffman (https://natureofcode.com) specifically chapter 9.<br> 
 GeeksForGeeks article (https://www.geeksforgeeks.org/genetic-algorithms/).
 
