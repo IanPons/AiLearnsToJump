@@ -8,7 +8,7 @@
 #define OUTPUT_SIZE 1
 #define LAYER_ZIZE 2
 
-static std::mt19937 rnd(time(NULL)); // número aleatórios de verdade
+static std::mt19937 rnd(time(NULL)); 
 
 void printVector(std::vector<double> &v)
 {
